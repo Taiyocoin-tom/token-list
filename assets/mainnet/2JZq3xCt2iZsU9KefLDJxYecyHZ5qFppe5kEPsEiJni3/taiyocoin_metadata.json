@@ -1,6 +1,13 @@
- {
-     "name": "Yoda Coin",
-   "symbol": "YODE",
-   "description": "Robotic coin made to rull them all",
-   "image": "https://github.com/Taiyocoin-tom/token-list/blob/main/assets/mainnet/2JZq3xCt2iZsU9KefLDJxYecyHZ5qFppe5kEPsEiJni3/logo.png"
-    }
+{
+    "name": "Taiyo Coin",
+    "symbol": "TYC",
+    "uri": "https://arweave.net/FPGAv1XnyZidnqquOdEbSY6_ES735ckcDTdaAtI7GFw",
+    "seller_fee_basis_points": 200,
+    "creators": [
+        {
+            "address": "J1iMdCwzKUonqGhdCXHrbxWTGq51K9XeEvRuzLDnzVdR",
+            "verified": false,
+            "share": 100
+        }
+    ]
+}
